@@ -4,9 +4,9 @@ Anti-Anti-Automation Framework
 A framework for techniques to bypass common anti-automation security controls. 
 
 ####Common Anti-Automation Controls####
-- Email Verification
+- <a href="https://docs.google.com/spreadsheets/d/1sL603xkfEDZ4p_WyRxp0vVu1lHz7fvrfvrqvFGILiqA/view?pli=1#gid=966295351">Email Verification</a>
 - CAPTCHA
-- SMS/Phone
+- <a href="https://docs.google.com/spreadsheets/d/1sL603xkfEDZ4p_WyRxp0vVu1lHz7fvrfvrqvFGILiqA/view?pli=1#gid=1796857230">SMS/Phone</a>
 - Credit Card
 
 
